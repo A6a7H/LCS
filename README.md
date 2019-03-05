@@ -10,10 +10,10 @@ Math:
 
 Tree:
 
-  236. Lowest Common Ancestor of a Binary Tree [✓]
+   236. Lowest Common Ancestor of a Binary Tree [✓]
 
 Linked List:
 
-  206. Reverse Linked List [✓]
+   206. Reverse Linked List [✓]
 
 
