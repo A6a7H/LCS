@@ -8,4 +8,8 @@ Math:
 
 50. Pow(x, n) [✓]
 
+Tree:
+
+236. Lowest Common Ancestor of a Binary Tree [✓]
+
 
