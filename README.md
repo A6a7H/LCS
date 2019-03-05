@@ -14,6 +14,7 @@ Tree:
 
 Linked List:
 
+   2. Add Two Numbers [✓]
    206. Reverse Linked List [✓]
 
 
