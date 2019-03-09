@@ -32,4 +32,8 @@ Design:
 
   155. Min Stack [✓]
   
+Stack:
+
+  20. Valid Parentheses [✓]
+  
 
