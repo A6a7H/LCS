@@ -13,6 +13,7 @@ Tree:
   236. Lowest Common Ancestor of a Binary Tree [✓]
   100. Same Tree [✓]
   102. Binary Tree Level Order Traversal [✓]
+  104. Maximum Depth of Binary Tree [✓]
   111. Minimum Depth of Binary Tree [✓]
   257. Binary Tree Paths [✓]
 
