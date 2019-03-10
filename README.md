@@ -27,7 +27,7 @@ Linked List:
 Array:
 
   771. Jewels and Stones [✓]
-  Find subarray with given sum[Yandex] []
+  Find subarray with given sum[Yandex] [✓]
   
 Design:
 
@@ -35,7 +35,9 @@ Design:
   
 String:
 
-  
+  125. Valid Palindrome [✓]
+  14. Longest Common Prefix [✓]
+  Largest substring composed of identical characters[Yandex] [✓]
   
 Stack:
 
@@ -43,6 +45,6 @@ Stack:
   
 Graph:
 
-  200. Number of Islands[Tinkoff] []
+  200. Number of Islands[Tinkoff] [✓]
   
 
