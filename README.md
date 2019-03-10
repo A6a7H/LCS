@@ -27,13 +27,22 @@ Linked List:
 Array:
 
   771. Jewels and Stones [✓]
+  Find subarray with given sum[Yandex] []
   
 Design:
 
   155. Min Stack [✓]
   
+String:
+
+  
+  
 Stack:
 
   20. Valid Parentheses [✓]
+  
+Graph:
+
+  200. Number of Islands[Tinkoff] []
   
 
