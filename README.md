@@ -28,6 +28,7 @@ Linked List:
 Array:
 
   771. Jewels and Stones [✓]
+  
   Find subarray with given sum[Yandex] [✓]
   
 Design:
