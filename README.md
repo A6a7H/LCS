@@ -40,6 +40,8 @@ String:
   125. Valid Palindrome [✓]
   14. Longest Common Prefix [✓]
   Largest substring composed of identical characters[Yandex] [✓]
+  Pos in structure[Yandex] [🞪]
+  Find most popular word in string[Yandex] [✓]
   
 Stack:
 
