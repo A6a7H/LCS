@@ -13,6 +13,7 @@ Tree:
   236. Lowest Common Ancestor of a Binary Tree [✓]
   100. Same Tree [✓]
   102. Binary Tree Level Order Traversal [✓]
+  104. Maximum Depth of Binary Tree [✓]
   111. Minimum Depth of Binary Tree [✓]
   257. Binary Tree Paths [✓]
 
@@ -28,12 +29,24 @@ Array:
 
   771. Jewels and Stones [✓]
   
+  Find subarray with given sum[Yandex] [✓]
+  
 Design:
 
   155. Min Stack [✓]
   
+String:
+
+  125. Valid Palindrome [✓]
+  14. Longest Common Prefix [✓]
+  Largest substring composed of identical characters[Yandex] [✓]
+  
 Stack:
 
   20. Valid Parentheses [✓]
+  
+Graph:
+
+  200. Number of Islands[Tinkoff] [✓]
   
 
