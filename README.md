@@ -32,6 +32,10 @@ Array:
   
   Find subarray with given sum[Yandex] [✓]
   
+Binary Search:
+
+  29. Divide Two Integers [✓]
+  
 Design:
 
   155. Min Stack [✓]
