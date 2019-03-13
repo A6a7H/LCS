@@ -41,9 +41,6 @@ Design:
   155. Min Stack [✓]
   
 String:
-
-  125. Valid Palindrome [✓]
-  14. Longest Common Prefix [✓]
   
   Largest substring composed of identical characters[Yandex] [✓]
 
@@ -54,8 +51,8 @@ String:
   
 |  №  | Name          | Type |Lanuage        | Result|Company|
 |-----| -------------:|-----:|:-------------:| -----:|------:|
-|125  | Valid Palindrome| String| py | ✓|  |
-|     | col 3 is      |      | right-aligned | $1600 |       |
-| 20  | Valid Parentheses | Stack| py      |  ✓  |       |
+|125  | Valid Palindrome| String| py | ✓|                    |
+|14   | Longest Common Prefix | String     | py  | ✓ |       |
+| 20  | Valid Parentheses | Stack| py      |  ✓  |           |
 | 200 | Number of Islands | Graph| py      |  ✓  | Tinkoff    |
 
