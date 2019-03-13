@@ -50,18 +50,12 @@ String:
   Pos in structure[Yandex] [🞪]
 
   Find most popular word in string[Yandex] [✓]
-  
-Stack:
 
-  20. Valid Parentheses [✓]
   
-Graph:
-
-  200. Number of Islands[Tinkoff] [✓]
-  
-| Exercise      | Type |Lanuage        | Result|Company|
-| -------------:|-----:|:-------------:| -----:|------:|
-| col 3 is      |      | right-aligned | $1600 |       |
-| col 2 is      |      | centered      |   $12 |       |
-| zebra stripes |      | are neat      |    $1 |       |
+|  №  | Name          | Type |Lanuage        | Result|Company|
+|-----| -------------:|-----:|:-------------:| -----:|------:|
+|125  | Valid Palindrome| String| py | ✓|  |
+|     | col 3 is      |      | right-aligned | $1600 |       |
+| 20  | Valid Parentheses | Stack| py      |  ✓  |       |
+| 200 | Number of Islands | Graph| py      |  ✓  | Tinkoff    |
 
