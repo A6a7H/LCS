@@ -46,12 +46,14 @@ String:
 
   Pos in structure[Yandex] [🞪]
 
-  Find most popular word in string[Yandex] [✓]
 
   
 |  №  | Name          | Type |Lanuage        | Result|Company|
 |-----| -------------:|-----:|:-------------:| -----:|------:|
-|125  | Valid Palindrome| String| py | ✓|                    |
+|     | Largest substring composed of identical characters | String | py | ✓ | Yandex |
+|     | Pos in structure | String | py | 🞪 | Yandex |
+|     | Find most popular word in string| String | py | ✓ | Yandex   |
+|125  | Valid Palindrome| String| py | ✓ |                    |
 |14   | Longest Common Prefix | String     | py  | ✓ |       |
 | 20  | Valid Parentheses | Stack| py      |  ✓  |           |
 | 200 | Number of Islands | Graph| py      |  ✓  | Tinkoff    |
