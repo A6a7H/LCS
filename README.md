@@ -1,4 +1,4 @@
-# LCS
+# Leet Code Solutions #
 |  №  | Name                                               | Type          |Lanuage         | Result | Company |
 |-----| --------------------------------------------------:|--------------:|:--------------:| ------:|--------:|
 | 17  | Letter Combinations of a Phone Number              | Backtracking  | py             | ✓      |         |
