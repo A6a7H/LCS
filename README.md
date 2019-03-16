@@ -48,4 +48,5 @@
   ![alt text](https://pp.userapi.com/c855028/v855028107/5517/n_MbhcFm2NU.jpg)
   ## Piramid ##
   ![alt text](https://pp.userapi.com/c855028/v855028107/54e5/f4CBPJ7ZPlY.jpg)
+  ![alt text](https://pp.userapi.com/c854528/v854528107/53aa/PHdZL6hLYdQ.jpg)
   ![alt text](https://pp.userapi.com/c845124/v845124910/1ce36d/A42Lj3qF7ro.jpg)
