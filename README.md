@@ -27,9 +27,9 @@
 | 20  | Valid Parentheses                                  | Stack         | py             |  ✓     |         |
 | 200 | Number of Islands                                  | Graph         | py             |  ✓     | Tinkoff |
 
-#Grapth algorithms
+# Grapth algorithms #
 
-  ##MST:
+  ## MST: ##
   
   Kruskal:
   ![alt text](https://pp.userapi.com/c847021/v847021642/1c8de1/_FmnGyL6fg4.jpg) 
