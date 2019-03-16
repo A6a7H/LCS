@@ -29,7 +29,7 @@
 
 # Grapth algorithms #
 
-  ## MST: ##
+  ## MST ##
   
-  Kruskal:
+  Kruskal
   ![alt text](https://pp.userapi.com/c847021/v847021642/1c8de1/_FmnGyL6fg4.jpg) 
