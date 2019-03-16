@@ -1,0 +1,3 @@
+C:/Users/Danj/Desktop/Yandex_contest_mod3-4/graph_1/prime/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Danj/Desktop/Yandex_contest_mod3-4/graph_1/prime/cmake-build-debug/CMakeFiles/prime.dir
+C:/Users/Danj/Desktop/Yandex_contest_mod3-4/graph_1/prime/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Danj/Desktop/Yandex_contest_mod3-4/graph_1/kruskal/Edge.h
+string
+-
+
+C:/Users/Danj/Desktop/Yandex_contest_mod3-4/graph_1/kruskal/ReadWriter.h
+Edge.h
+C:/Users/Danj/Desktop/Yandex_contest_mod3-4/graph_1/kruskal/Edge.h
+iostream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+
+C:/Users/Danj/Desktop/Yandex_contest_mod3-4/graph_1/kruskal/main.cpp
+ReadWriter.h
+C:/Users/Danj/Desktop/Yandex_contest_mod3-4/graph_1/kruskal/ReadWriter.h
+

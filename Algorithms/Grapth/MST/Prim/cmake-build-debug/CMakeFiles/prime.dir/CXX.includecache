@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Danj/Desktop/Yandex_contest_mod3-4/graph_1/prime/Edge.h
+string
+-
+
+C:/Users/Danj/Desktop/Yandex_contest_mod3-4/graph_1/prime/ReadWriter.h
+Edge.h
+C:/Users/Danj/Desktop/Yandex_contest_mod3-4/graph_1/prime/Edge.h
+iostream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+
+C:/Users/Danj/Desktop/Yandex_contest_mod3-4/graph_1/prime/main.cpp
+iostream
+-
+string
+-
+queue
+C:/Users/Danj/Desktop/Yandex_contest_mod3-4/graph_1/prime/queue
+ReadWriter.h
+C:/Users/Danj/Desktop/Yandex_contest_mod3-4/graph_1/prime/ReadWriter.h
+
