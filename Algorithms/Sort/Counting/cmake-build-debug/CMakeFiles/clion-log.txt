@@ -1,0 +1,4 @@
+C:\Users\Danj\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4323.58\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Danj\Desktop\Yandex_contest_mod3-4\linear_sort
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Danj/Desktop/Yandex_contest_mod3-4/linear_sort/cmake-build-debug
