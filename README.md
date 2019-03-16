@@ -36,3 +36,15 @@
   
   #### Prim ####
   ![alt text](https://pp.userapi.com/c855028/v855028107/543c/vbSjmw90SZY.jpg)
+
+# Sort #
+
+  ## Count ##
+  ![alt text](https://pp.userapi.com/c845322/v845322910/1cc633/QOYvAcjT3XQ.jpg)
+  ## Radix ##
+  ![alt text](https://pp.userapi.com/c851328/v851328107/df9c5/ItToUA-JblE.jpg)
+  ## Quick ##
+  ![alt text](https://pp.userapi.com/c855028/v855028107/5510/ta_yKW16xhE.jpg)
+  ![alt text](https://pp.userapi.com/c855028/v855028107/5517/n_MbhcFm2NU.jpg)
+  ## Piramid ##
+  ![alt text](https://pp.userapi.com/c855028/v855028107/54e5/f4CBPJ7ZPlY.jpg)
