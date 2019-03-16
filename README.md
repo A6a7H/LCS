@@ -33,3 +33,6 @@
   
   #### Kruskal ####
   ![alt text](https://pp.userapi.com/c847021/v847021642/1c8de1/_FmnGyL6fg4.jpg) 
+  
+  #### Prim ####
+  ![alt text](https://pp.userapi.com/c855028/v855028107/543c/vbSjmw90SZY.jpg)
