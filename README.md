@@ -4,6 +4,7 @@
 | 17  | Letter Combinations of a Phone Number              | Backtracking  | py             | ✓      |         |
 | 39  | Combination Sum                                    | Backtracking  | py             | ✓      |         |
 | 50  | Pow(x, n)                                          | Math          | py             | ✓      |         |
+|     | True Coin                                          | Math          | py             | ✓      | Yandex  |
 | 100 | Same Tree                                          | Tree          | py             | ✓      |         |
 | 102 | Binary Tree Level Order Traversal                  | Tree          | py             | ✓      |         |
 | 104 | Maximum Depth of Binary Tree                       | Tree          | py             | ✓      |         |
@@ -18,6 +19,7 @@
 | 771 | Jewels and Stones                                  | Array         | py             | ✓      |         |
 |     | Find subarray with given sum                       | Array         | py             | ✓      | Yandex  |
 | 29  | Divide Two Integers                                | Binary Search | py             | ✓      |         |
+| 35  | Search Insert Position                             | Binary Search | cpp            | ✓      |         |
 | 155 | Min Stack                                          | Design        |                | ✓      |         |
 |     | Largest substring composed of identical characters | String        | py             | ✓      | Yandex  |
 |     | Pos in structure                                   | String        | py             | 🞪      | Yandex  |
