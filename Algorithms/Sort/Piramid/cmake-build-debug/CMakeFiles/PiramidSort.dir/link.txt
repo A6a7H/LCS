@@ -1,3 +1,0 @@
-C:\Users\Danj\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4323.58\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\PiramidSort.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\PiramidSort.dir/objects.a @CMakeFiles\PiramidSort.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\PiramidSort.dir/objects.a -Wl,--no-whole-archive  -o PiramidSort.exe -Wl,--out-implib,libPiramidSort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PiramidSort.dir\linklibs.rsp

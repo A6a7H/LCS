@@ -1,3 +1,0 @@
-C:\Users\Danj\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4323.58\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\quic.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\quic.dir/objects.a @CMakeFiles\quic.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\quic.dir/objects.a -Wl,--no-whole-archive  -o quic.exe -Wl,--out-implib,libquic.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\quic.dir\linklibs.rsp
