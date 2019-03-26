@@ -16,6 +16,7 @@
 | 206 | Reverse Linked List                                | Linked List   | py             | ✓      |          |
 | 142 | Linked List Cycle II                               | Linked List   | py             | ✓      |          |
 | 143 | Reorder List                                       | Linked List   | py             | 🞪      |          |
+|     | Delete k-th from last elemnt                       | Linked List   | py             | 🞪      | Sber     |
 | 234 | Palindrome Linked List                             | Linked List   | py             | ✓      |          |
 | 771 | Jewels and Stones                                  | Array         | py             | ✓      |          |
 |     | Find subarray with given sum                       | Array         | py             | ✓      | Yandex   |
