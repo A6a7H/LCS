@@ -21,6 +21,7 @@
 | 771 | Jewels and Stones                                  | Array         | py             | ✓      |          |
 |     | Find subarray with given sum                       | Array         | py             | ✓      | Yandex   |
 | 29  | Divide Two Integers                                | Binary Search | py             | ✓      |          |
+| 34  | Find frst and lst pos of Element in Sorted Array   | Binary Search | py             | ✓      |          |
 | 35  | Search Insert Position                             | Binary Search | cpp            | ✓      |          |
 | 155 | Min Stack                                          | Design        |                | ✓      |          |
 |     | Largest substring composed of identical characters | String        | py             | ✓      | Yandex   |
