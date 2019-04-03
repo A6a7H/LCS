@@ -5,6 +5,7 @@
 | 39  | Combination Sum                                    | Backtracking  | py             | ✓      |          |
 | 50  | Pow(x, n)                                          | Math          | py / cpp       | ✓      |          |
 |     | True Coin                                          | Math          | py             | ✓      | Yandex   |
+|     | Reverse Bits                                       | Math          | py             | ✓      | Nvidia   |
 | 100 | Same Tree                                          | Tree          | py             | ✓      |          |
 | 102 | Binary Tree Level Order Traversal                  | Tree          | py             | ✓      |          |
 | 104 | Maximum Depth of Binary Tree                       | Tree          | py             | ✓      |          |
@@ -13,6 +14,7 @@
 | 108 | Convert Sorted Array to Binary Search Tree         | Tree          | py / cpp       | ✓      |          |
 | 257 | Binary Tree Paths                                  | Tree          | py             | ✓      |          |
 |  2  | Add Two Numbers                                    | Linked List   | py             | ✓      |          |
+|  83 | Remove Duplicates from Sorted List                 | Linked List   | py             | ✓      | Oracle   |
 | 206 | Reverse Linked List                                | Linked List   | py             | ✓      |          |
 | 142 | Linked List Cycle II                               | Linked List   | py             | ✓      |          |
 | 143 | Reorder List                                       | Linked List   | py             | 🞪      |          |
@@ -20,6 +22,7 @@
 | 234 | Palindrome Linked List                             | Linked List   | py             | ✓      |          |
 | 771 | Jewels and Stones                                  | Array         | py             | ✓      |          |
 |     | Find subarray with given sum                       | Array         | py             | ✓      | Yandex   |
+| 54  | Spiral Matrix                                      | Array         | py             | ✓      |          |
 | 29  | Divide Two Integers                                | Binary Search | py             | ✓      |          |
 | 34  | Find frst and lst pos of Element in Sorted Array   | Binary Search | py             | ✓      |          |
 | 35  | Search Insert Position                             | Binary Search | cpp            | ✓      |          |
