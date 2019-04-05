@@ -26,6 +26,7 @@
 | 29  | Divide Two Integers                                | Binary Search | py             | ✓      |          |
 | 34  | Find frst and lst pos of Element in Sorted Array   | Binary Search | py             | ✓      |          |
 | 35  | Search Insert Position                             | Binary Search | cpp            | ✓      |          |
+| 215 | Kth Largest Element in an Array                    | Heap          | py             | ✓      |          |
 | 155 | Min Stack                                          | Design        |                | ✓      |          |
 |     | Largest substring composed of identical characters | String        | py             | ✓      | Yandex   |
 |     | Pos in structure                                   | String        | py             | 🞪      | Yandex   |
