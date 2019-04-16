@@ -1,10 +1,12 @@
 # Leet Code Solutions #
 |  №  | Name                                               | Type          |Lanuage         | Result | Company  |
 |-----| --------------------------------------------------:|--------------:|:--------------:| ------:|---------:|
+|     | Diffk                                              | 2 Pointer     | py             | ✓      | Facebook |
 | 17  | Letter Combinations of a Phone Number              | Backtracking  | py             | ✓      |          |
 | 39  | Combination Sum                                    | Backtracking  | py             | ✓      |          |
 | 50  | Pow(x, n)                                          | Math          | py / cpp       | ✓      |          |
 |     | True Coin                                          | Math          | py             | ✓      | Yandex   |
+|     | Add two numbers in base 16                         | Math          | py             | ✓      | Yandex   |
 |     | Reverse Bits                                       | Math          | py             | ✓      | Nvidia   |
 | 100 | Same Tree                                          | Tree          | py             | ✓      |          |
 | 102 | Binary Tree Level Order Traversal                  | Tree          | py             | ✓      |          |
@@ -30,6 +32,7 @@
 | 155 | Min Stack                                          | Design        |                | ✓      |          |
 |     | Largest substring composed of identical characters | String        | py             | ✓      | Yandex   |
 |     | Pos in structure                                   | String        | py             | 🞪      | Yandex   |
+|     | Convert one string to other                        | String        | py             | 🞪      | Yandex   |
 |     | Find most popular word in string                   | String        | py             | ✓      | Yandex   |
 | 125 | Valid Palindrome                                   | String        | py             | ✓      |          |
 | 28  | Implement strStr                                   | String        | py             | ✓      | Facebook |
