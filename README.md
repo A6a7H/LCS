@@ -41,6 +41,11 @@
 | 200 | Number of Islands                                  | Graph         | py             |  ✓     | Tinkoff  |
 | 455 | Assign Cookies                                     | Greedy        | py / cpp       |  ✓     |          |
 
+# ML algorithms #
+|  №  | Name                                               |Lanuage         | Result |
+|-----| --------------------------------------------------:|:--------------:| ------:|
+|  0   | Adaboost                                          | py             | ✓      |
+
 # Grapth algorithms #
 
   ## MST ##
