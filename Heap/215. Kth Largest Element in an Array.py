@@ -11,6 +11,7 @@ Example 2:
 Input: [3,2,3,1,2,4,5,5,6] and k = 4
 Output: 4
 '''
+import heapq
 class Solution:
 
     def findKthLargest(self, nums, k) -> int:
@@ -37,28 +38,29 @@ class Solution:
 
 
     def findKthLargest1(self, nums, k):
-    heap = nums[:k]
-    heapq.heapify(heap)
-    for num in nums[k:]:
-        if num > heap[0]:
-           heapq.heapreplace(heap, num)
-    return heap[0]
+        heap = nums[:k]
+        heapq = heap()
+        heapq.heapify(heap)
+        for num in nums[k:]:
+            if num > heap[0]:
+               heapq.heapreplace(heap, num)
+        return heap[0]
 
 
     def findKthLargest2(self, nums, k):
-    pos = self.partition(nums, 0, len(nums)-1)
-    if pos > len(nums) - k:
-        return self.findKthLargest(nums[:pos], k-(len(nums)-pos))
-    elif pos < len(nums) - k:
-        return self.findKthLargest(nums[pos+1:], k)
-    else:
-        return nums[pos]
- 
-    # Lomuto partition scheme   
+        pos = self.partition(nums, 0, len(nums)-1)
+        if pos > len(nums) - k:
+            return self.findKthLargest(nums[:pos], k-(len(nums)-pos))
+        elif pos < len(nums) - k:
+            return self.findKthLargest(nums[pos+1:], k)
+        else:
+            return nums[pos]
+
+    # Lomuto partition scheme
     def partition(self, nums, l, r):
         pivot = nums[r]
-        lo = l 
-        for i in xrange(l, r):
+        lo = l
+        for i in range(l, r):
             if nums[i] < pivot:
                 nums[i], nums[lo] = nums[lo], nums[i]
                 lo += 1

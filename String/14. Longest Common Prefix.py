@@ -16,12 +16,23 @@ class Solution(object):
             s = s[:left]
         return s
 
-class Solution:
+class Solution1:
     def longestCommonPrefix2(self, m):
         if not m: return ''
-        s1 = min(m)
-        s2 = max(m)
-        for i in range(len(s1)):
-            if s1[i] != s2[i]:
-                return s1[:i]
-        return s1
+        word1 = min(m)
+        word2 = max(m)
+
+        count = 0
+        for i in range(min(len(word2), len(word1))):
+            if word1[i] == word2[i]:
+                count += 1
+
+        return word1[:count]
+
+s = Solution1()
+a = [
+  "abcdefgh",
+  "aefghijk",
+  "cbcefgh"
+]
+print(s.longestCommonPrefix2(a))
