@@ -30,6 +30,7 @@
 | 34  | Find frst and lst pos of Element in Sorted Array   | Binary Search | py             | ✓      |          |
 | 35  | Search Insert Position                             | Binary Search | cpp            | ✓      |          |
 | 215 | Kth Largest Element in an Array                    | Heap          | py             | ✓      |   ABBY   |
+|     | Build heap                                         | Heap          | py             | ✓      |          |
 | 155 | Min Stack                                          | Design        |                | ✓      |          |
 |     | Largest substring composed of identical characters | String        | py             | ✓      | Yandex   |
 |     | Pos in structure                                   | String        | py             | 🞪      | Yandex   |
@@ -38,6 +39,7 @@
 | 125 | Valid Palindrome                                   | String        | py             | ✓      |          |
 | 28  | Implement strStr                                   | String        | py             | ✓      | Facebook |
 | 14  | Longest Common Prefix                              | String        | py             | ✓      |   ABBYY  |
+|     | Create word by first char of sentense.py           | String        | py             | ✓      |   Amazon |
 | 20  | Valid Parentheses                                  | Stack         | py             |  ✓     |          |
 | 200 | Number of Islands                                  | Graph         | py             |  ✓     | Tinkoff  |
 | 455 | Assign Cookies                                     | Greedy        | py / cpp       |  ✓     |          |
