@@ -1,6 +1,7 @@
 # Leet Code Solutions #
 |  №  | Name                                               | Type          |Lanuage         | Result | Company  |
 |-----| --------------------------------------------------:|--------------:|:--------------:| ------:|---------:|
+|     | Find median in array                               | Quick Select  | py             | ✓      | ABBYY    |
 |     | Diffk                                              | 2 Pointer     | py             | ✓      | Facebook |
 | 17  | Letter Combinations of a Phone Number              | Backtracking  | py             | ✓      |          |
 | 39  | Combination Sum                                    | Backtracking  | py             | ✓      |          |
@@ -28,7 +29,7 @@
 | 29  | Divide Two Integers                                | Binary Search | py             | ✓      |          |
 | 34  | Find frst and lst pos of Element in Sorted Array   | Binary Search | py             | ✓      |          |
 | 35  | Search Insert Position                             | Binary Search | cpp            | ✓      |          |
-| 215 | Kth Largest Element in an Array                    | Heap          | py             | ✓      |          |
+| 215 | Kth Largest Element in an Array                    | Heap          | py             | ✓      |   ABBY   |
 | 155 | Min Stack                                          | Design        |                | ✓      |          |
 |     | Largest substring composed of identical characters | String        | py             | ✓      | Yandex   |
 |     | Pos in structure                                   | String        | py             | 🞪      | Yandex   |
@@ -36,12 +37,12 @@
 |     | Find most popular word in string                   | String        | py             | ✓      | Yandex   |
 | 125 | Valid Palindrome                                   | String        | py             | ✓      |          |
 | 28  | Implement strStr                                   | String        | py             | ✓      | Facebook |
-| 14  | Longest Common Prefix                              | String        | py             | ✓      |          |
+| 14  | Longest Common Prefix                              | String        | py             | ✓      |   ABBYY  |
 | 20  | Valid Parentheses                                  | Stack         | py             |  ✓     |          |
 | 200 | Number of Islands                                  | Graph         | py             |  ✓     | Tinkoff  |
 | 455 | Assign Cookies                                     | Greedy        | py / cpp       |  ✓     |          |
 
-# ML algorithms #
+# ML algorithms from scratch #
 |  №  | Name                                               |Lanuage         | Result |
 |-----| --------------------------------------------------:|:--------------:| ------:|
 |  0   | Adaboost                                          | py             | ✓      |
