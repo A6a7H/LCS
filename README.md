@@ -10,6 +10,7 @@
 |     | Add two numbers in base 16                         | Math          | py             | ✓      | Yandex   |
 |     | Reverse Bits                                       | Math          | py             | ✓      | Nvidia   |
 | 100 | Same Tree                                          | Tree          | py             | ✓      |          |
+| 110 | Balanced Binary Tree                               | Tree          | py             | ✓      |          |
 | 102 | Binary Tree Level Order Traversal                  | Tree          | py             | ✓      |          |
 | 104 | Maximum Depth of Binary Tree                       | Tree          | py             | ✓      |          |
 | 111 | Minimum Depth of Binary Tree                       | Tree          | py             | ✓      |          |
@@ -17,6 +18,7 @@
 | 108 | Convert Sorted Array to Binary Search Tree         | Tree          | py / cpp       | ✓      |          |
 | 257 | Binary Tree Paths                                  | Tree          | py             | ✓      |          |
 |  2  | Add Two Numbers                                    | Linked List   | py             | ✓      |          |
+|  19 | Remove Nth Node From End of List                   | Linked List   | py             | ✓      |          |
 |  83 | Remove Duplicates from Sorted List                 | Linked List   | py             | ✓      | Oracle   |
 | 206 | Reverse Linked List                                | Linked List   | py             | ✓      |          |
 | 142 | Linked List Cycle II                               | Linked List   | py             | ✓      |          |
@@ -31,7 +33,8 @@
 | 35  | Search Insert Position                             | Binary Search | cpp            | ✓      |          |
 | 215 | Kth Largest Element in an Array                    | Heap          | py             | ✓      |   ABBY   |
 |     | Build heap                                         | Heap          | py             | ✓      |          |
-| 155 | Min Stack                                          | Design        |                | ✓      |          |
+| 155 | Min Stack                                          | Design        | py             | ✓      |          |
+|     | MyQueue                                            | Design        | cpp            | ✓      |          |
 |     | Largest substring composed of identical characters | String        | py             | ✓      | Yandex   |
 |     | Pos in structure                                   | String        | py             | 🞪      | Yandex   |
 |     | Convert one string to other                        | String        | py             | 🞪      | Yandex   |
