@@ -5,6 +5,7 @@
 |     | Diffk                                              | 2 Pointer     | py             | ✓      | Facebook |
 | 17  | Letter Combinations of a Phone Number              | Backtracking  | py             | ✓      |          |
 | 39  | Combination Sum                                    | Backtracking  | py             | ✓      |          |
+| 40  | Combination Sum II                                 | Backtracking  | py             | ✓      |          |
 | 50  | Pow(x, n)                                          | Math          | py / cpp       | ✓      |          |
 |     | True Coin                                          | Math          | py             | ✓      | Yandex   |
 |     | Add two numbers in base 16                         | Math          | py             | ✓      | Yandex   |
@@ -26,6 +27,7 @@
 |     | Delete k-th from last elemnt                       | Linked List   | py             | ✓      | Sber     |
 | 234 | Palindrome Linked List                             | Linked List   | py             | ✓      |          |
 | 771 | Jewels and Stones                                  | Array         | py             | ✓      |          |
+| 31  | Next Permutation                                   | Array         | py             | ✓      |          |
 |     | Find subarray with given sum                       | Array         | py             | ✓      | Yandex   |
 | 54  | Spiral Matrix                                      | Array         | py             | ✓      |          |
 | 29  | Divide Two Integers                                | Binary Search | py             | ✓      |          |
