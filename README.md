@@ -13,11 +13,13 @@
 | 100 | Same Tree                                          | Tree          | py             | ✓      |          |
 | 110 | Balanced Binary Tree                               | Tree          | py             | ✓      |          |
 | 102 | Binary Tree Level Order Traversal                  | Tree          | py             | ✓      |          |
+| 98  | Validate Binary Search Tree                        | Tree          | py             | ✓      |          |
 | 104 | Maximum Depth of Binary Tree                       | Tree          | py             | ✓      |          |
 | 111 | Minimum Depth of Binary Tree                       | Tree          | py             | ✓      |          |
 | 236 | Lowest Common Ancestor of a Binary Tree            | Tree          | py             | ✓      |          |
 | 108 | Convert Sorted Array to Binary Search Tree         | Tree          | py / cpp       | ✓      |          |
 | 257 | Binary Tree Paths                                  | Tree          | py             | ✓      |          |
+| 437 | Path Sum III                                       | Tree          | py             | ✓      |          |
 |  2  | Add Two Numbers                                    | Linked List   | py             | ✓      |          |
 |  19 | Remove Nth Node From End of List                   | Linked List   | py             | ✓      |          |
 |  83 | Remove Duplicates from Sorted List                 | Linked List   | py             | ✓      | Oracle   |
