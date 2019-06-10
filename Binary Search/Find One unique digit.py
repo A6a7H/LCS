@@ -14,6 +14,7 @@ class Solution:
                     r = m
                 else:
                     l = m + 2
+
             elif data[m] == data[m-1]:
                 if len(data[m+1:]) % 2 == 0:
                     r = m - 1

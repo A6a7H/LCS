@@ -13,6 +13,7 @@ class KMeans:
         return min(range(self.k), key=lambda i: np.linalg.norm(self.means[i] - inputs))
 
 
+
     def train(self, inputs):
         self.means = inputs[np.random.choice(inputs.shape[0], self.k)]
         assignment = None
