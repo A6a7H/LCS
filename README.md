@@ -34,8 +34,9 @@
 | 54  | Spiral Matrix                                      | Array         | py             | ✓      |          |
 | 29  | Divide Two Integers                                | Binary Search | py             | ✓      |          |
 | 34  | Find frst and lst pos of Element in Sorted Array   | Binary Search | py             | ✓      |          |
+|     | Find One unique digit.py                           | Binary Search | py             | ✓      |   ABBYY  |
 | 35  | Search Insert Position                             | Binary Search | cpp            | ✓      |          |
-| 215 | Kth Largest Element in an Array                    | Heap          | py             | ✓      |   ABBY   |
+| 215 | Kth Largest Element in an Array                    | Heap          | py             | ✓      |   ABBYY  |
 |     | Build heap                                         | Heap          | py             | ✓      |          |
 | 155 | Min Stack                                          | Design        | py             | ✓      |          |
 |     | MyQueue                                            | Design        | cpp            | ✓      |          |
@@ -55,6 +56,7 @@
 |  №  | Name                                               |Lanuage         | Result |
 |-----| --------------------------------------------------:|:--------------:| ------:|
 |  0   | Adaboost                                          | py             | ✓      |
+|  1   | KMeans                                            | py             | 🞪      |
 
 # Grapth algorithms #
 
