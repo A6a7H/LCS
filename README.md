@@ -6,6 +6,7 @@
 | 17  | Letter Combinations of a Phone Number              | Backtracking  | py             | ✓      |          |
 | 39  | Combination Sum                                    | Backtracking  | py             | ✓      |          |
 | 40  | Combination Sum II                                 | Backtracking  | py             | ✓      |          |
+| 77  | Combinations                                       | Backtracking  | py             | ✓      |          |
 | 50  | Pow(x, n)                                          | Math          | py / cpp       | ✓      |          |
 |     | True Coin                                          | Math          | py             | ✓      | Yandex   |
 |     | Add two numbers in base 16                         | Math          | py             | ✓      | Yandex   |
@@ -20,6 +21,7 @@
 | 108 | Convert Sorted Array to Binary Search Tree         | Tree          | py / cpp       | ✓      |          |
 | 257 | Binary Tree Paths                                  | Tree          | py             | ✓      |          |
 | 437 | Path Sum III                                       | Tree          | py             | ✓      |          |
+| 199 | Binary Tree Right Side View                        | Tree          | py             | ✓      |          |
 |  2  | Add Two Numbers                                    | Linked List   | py             | ✓      |          |
 |  19 | Remove Nth Node From End of List                   | Linked List   | py             | ✓      |          |
 |  83 | Remove Duplicates from Sorted List                 | Linked List   | py             | ✓      | Oracle   |
@@ -32,6 +34,7 @@
 | 31  | Next Permutation                                   | Array         | py             | ✓      |          |
 |     | Find subarray with given sum                       | Array         | py             | ✓      | Yandex   |
 | 54  | Spiral Matrix                                      | Array         | py             | ✓      |          |
+| 238 | Product of Array Except Self                       | Array         | py             | ✓      |          |
 | 29  | Divide Two Integers                                | Binary Search | py             | ✓      |          |
 | 34  | Find frst and lst pos of Element in Sorted Array   | Binary Search | py             | ✓      |          |
 |     | Find One unique digit.py                           | Binary Search | py             | ✓      |   ABBYY  |
@@ -57,27 +60,3 @@
 |-----| --------------------------------------------------:|:--------------:| ------:|
 |  0   | Adaboost                                          | py             | ✓      |
 |  1   | KMeans                                            | py             | 🞪      |
-
-# Grapth algorithms #
-
-  ## MST ##
-  
-  #### Kruskal ####
-  ![alt text](https://pp.userapi.com/c847021/v847021642/1c8de1/_FmnGyL6fg4.jpg) 
-  
-  #### Prim ####
-  ![alt text](https://pp.userapi.com/c855028/v855028107/543c/vbSjmw90SZY.jpg)
-
-# Sort #
-
-  ## Count ##
-  ![alt text](https://pp.userapi.com/c845322/v845322910/1cc633/QOYvAcjT3XQ.jpg)
-  ## Radix ##
-  ![alt text](https://pp.userapi.com/c851328/v851328107/df9c5/ItToUA-JblE.jpg)
-  ## Quick ##
-  ![alt text](https://pp.userapi.com/c855028/v855028107/5510/ta_yKW16xhE.jpg)
-  ![alt text](https://pp.userapi.com/c855028/v855028107/5517/n_MbhcFm2NU.jpg)
-  ## Piramid ##
-  ![alt text](https://pp.userapi.com/c855028/v855028107/54e5/f4CBPJ7ZPlY.jpg)
-  ![alt text](https://pp.userapi.com/c854528/v854528107/53aa/PHdZL6hLYdQ.jpg)
-  ![alt text](https://pp.userapi.com/c845124/v845124910/1ce36d/A42Lj3qF7ro.jpg)
