@@ -54,6 +54,7 @@
 |     | Create word by first char of sentense.py           | String        | py             | ✓      |   Amazon |
 | 20  | Valid Parentheses                                  | Stack         | py             |  ✓     |          |
 | 200 | Number of Islands                                  | Graph         | py             |  ✓     | Tinkoff  |
+| 1267| Count Servers that Communicate                     | Graph         | py             |  ✓     |          |
 | 455 | Assign Cookies                                     | Greedy        | py / cpp       |  ✓     |          |
 
 # ML algorithms from scratch #
