@@ -23,6 +23,7 @@
 | 437 | Path Sum III                                       | Tree          | py             | ✓      |          |
 | 199 | Binary Tree Right Side View                        | Tree          | py             | ✓      |          |
 |  2  | Add Two Numbers                                    | Linked List   | py             | ✓      |          |
+|  23 | Merge k Sorted Lists                               | Linked List   | py             | ✓      |          |
 |  19 | Remove Nth Node From End of List                   | Linked List   | py             | ✓      |          |
 |  83 | Remove Duplicates from Sorted List                 | Linked List   | py             | ✓      | Oracle   |
 | 206 | Reverse Linked List                                | Linked List   | py             | ✓      |          |
