@@ -32,6 +32,7 @@
 |     | Delete k-th from last elemnt                       | Linked List   | py             | ✓      | Sber     |
 | 234 | Palindrome Linked List                             | Linked List   | py             | ✓      |          |
 | 771 | Jewels and Stones                                  | Array         | py             | ✓      |          |
+| 283 | Move Zeroes                                        | Array         | py             | ✓      |          |
 | 31  | Next Permutation                                   | Array         | py             | ✓      |          |
 |     | Find subarray with given sum                       | Array         | py             | ✓      | Yandex   |
 | 54  | Spiral Matrix                                      | Array         | py             | ✓      |          |
