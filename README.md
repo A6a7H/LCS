@@ -20,6 +20,7 @@
 | 236 | Lowest Common Ancestor of a Binary Tree            | Tree          | py             | ✓      |          |
 | 108 | Convert Sorted Array to Binary Search Tree         | Tree          | py / cpp       | ✓      |          |
 | 257 | Binary Tree Paths                                  | Tree          | py             | ✓      |          |
+| 404 | Sum of Left Leaves                                 | Tree          | py             | ✓      |          |
 | 437 | Path Sum III                                       | Tree          | py             | ✓      |          |
 | 199 | Binary Tree Right Side View                        | Tree          | py             | ✓      |          |
 |  2  | Add Two Numbers                                    | Linked List   | py             | ✓      |          |
@@ -38,6 +39,7 @@
 | 54  | Spiral Matrix                                      | Array         | py             | ✓      |          |
 | 238 | Product of Array Except Self                       | Array         | py             | ✓      |          |
 | 29  | Divide Two Integers                                | Binary Search | py             | ✓      |          |
+| 704 | Binary Search                                      | Binary Search | py             | ✓      |          |
 | 658  | Find K Closest Elements                           | Binary Search | py             | ✓      |          |
 | 34  | Find frst and lst pos of Element in Sorted Array   | Binary Search | py             | ✓      |          |
 |     | Find One unique digit.py                           | Binary Search | py             | ✓      |   ABBYY  |
