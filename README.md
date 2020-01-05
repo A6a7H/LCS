@@ -60,8 +60,9 @@
 | 20  | Valid Parentheses                                  | Stack         | py             |  ✓     |          |
 | 200 | Number of Islands                                  | Graph         | py             |  ✓     | Tinkoff  |
 | 1267| Count Servers that Communicate                     | Graph         | py             |  ✓     |          |
+| 695 | Max Area of Island                                 | Graph         | py / cpp       |  ✓     |          |
 | 455 | Assign Cookies                                     | Greedy        | py / cpp       |  ✓     |          |
-| 695 | Max Area of Island                                 | DP            | py / cpp       |  ✓     |          |
+| 198 | House Robber                                       | DP            | py / cpp       |  ✓     |          | 
 
 # ML algorithms from scratch #
 |  №  | Name                                               |Lanuage         | Result |
