@@ -61,6 +61,7 @@
 | 200 | Number of Islands                                  | Graph         | py             |  ✓     | Tinkoff  |
 | 1267| Count Servers that Communicate                     | Graph         | py             |  ✓     |          |
 | 455 | Assign Cookies                                     | Greedy        | py / cpp       |  ✓     |          |
+| 695 | Max Area of Island                                 | DP            | py / cpp       |  ✓     |          |
 
 # ML algorithms from scratch #
 |  №  | Name                                               |Lanuage         | Result |
