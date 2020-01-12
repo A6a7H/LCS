@@ -44,6 +44,7 @@
 | 704 | Binary Search                                      | Binary Search | py             | ✓      |          |
 | 658  | Find K Closest Elements                           | Binary Search | py             | ✓      |          |
 | 34  | Find frst and lst pos of Element in Sorted Array   | Binary Search | py             | ✓      |          |
+| 162 | Find Peak Element                                  | Binary Search | py             | ✓      |   ABBYY  |
 |     | Find One unique digit.py                           | Binary Search | py             | ✓      |   ABBYY  |
 | 35  | Search Insert Position                             | Binary Search | cpp            | ✓      |          |
 | 215 | Kth Largest Element in an Array                    | Heap          | py             | ✓      |   ABBYY  |
@@ -57,13 +58,15 @@
 | 125 | Valid Palindrome                                   | String        | py             | ✓      |          |
 | 28  | Implement strStr                                   | String        | py             | ✓      | Facebook |
 | 14  | Longest Common Prefix                              | String        | py             | ✓      |   ABBYY  |
+| 459 | Repeated Substring Pattern                         | String        | py             | ✓      |          |
 |     | Create word by first char of sentense.py           | String        | py             | ✓      |   Amazon |
 | 20  | Valid Parentheses                                  | Stack         | py             |  ✓     |          |
 | 200 | Number of Islands                                  | Graph         | py             |  ✓     | Tinkoff  |
 | 1267| Count Servers that Communicate                     | Graph         | py             |  ✓     |          |
 | 695 | Max Area of Island                                 | Graph         | py / cpp       |  ✓     |          |
 | 455 | Assign Cookies                                     | Greedy        | py / cpp       |  ✓     |          |
-| 198 | House Robber                                       | DP            | py / cpp       |  ✓     |          | 
+| 860 | Lemonade Change                                    | Greedy        | py             |  ✓     |          |
+| 198 | House Robber                                       | DP            | py             |  ✓     |          | 
 
 # ML algorithms from scratch #
 |  №  | Name                                               |Lanuage         | Result |
