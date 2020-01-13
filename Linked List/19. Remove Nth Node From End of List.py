@@ -4,18 +4,13 @@ class ListNode:
         self.next = None
 
 class Solution:
-    def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
-        pre = head
-        slow = head
-        fast = head
-        for i in range(n):
-            fast = fast.next
-        while fast:
-            fast = fast.next
-            pre = pre.next if slow != head else pre
-            slow = slow.next
-        if slow == head:
-            head = pre.next
-        else:
-            pre.next = slow.next
-        return head
+    def removeNthFromEnd(self, head, n):
+        dummy = ListNode(0)
+        dummy.next = head
+        first = dummy
+        for i in range(n - 1):
+            head = head.next
+        while head.next:
+            first, head = first.next, head.next
+        first.next = first.next.next
+        return dummy.next
