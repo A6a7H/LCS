@@ -12,14 +12,13 @@ class Solution:
         if None in [root.left, root.right]:
             l = self.minDepth(root.left)
             r = self.minDepth(root.right)
-            return max(l,r)+1
+            return max(l,r) + 1
         else:
             l = self.minDepth(root.left)
             r = self.minDepth(root.right)
-            return min(l,r)+1
-
-    def minDepth1(self, root: 'TreeNode') -> 'int':
-
+            return min(l,r) + 1
+        
+        
 class Solution:
     def minDepth1(self, root):
         if not root:
