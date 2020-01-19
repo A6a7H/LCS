@@ -24,6 +24,7 @@
 | 437 | Path Sum III                                       | Tree          | py             | ✓      |          |
 | 199 | Binary Tree Right Side View                        | Tree          | py             | ✓      |          |
 | 116 | Populating Next Right Pointers in Each Node        | Tree          | py             | ✓      |          | 
+| 617 | Merge Two Binary Trees                             | Tree          | py             | ✓      |          | 
 |  2  | Add Two Numbers                                    | Linked List   | py             | ✓      |          |
 |  21 | Merge Two Sorted Lists                             | Linked List   | py             | ✓      |          |
 |  23 | Merge k Sorted Lists                               | Linked List   | py             | ✓      |          |
