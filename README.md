@@ -9,6 +9,7 @@
 | 40  | Combination Sum II                                 | Backtracking  | py             | ✓      |          |
 | 77  | Combinations                                       | Backtracking  | py             | ✓      |          |
 | 50  | Pow(x, n)                                          | Math          | py / cpp       | ✓      |          |
+| 136 | Single Number                                      | Math          | py             | ✓      |          |
 |     | True Coin                                          | Math          | py             | ✓      | Yandex   |
 |     | Add two numbers in base 16                         | Math          | py             | ✓      | Yandex   |
 |     | Reverse Bits                                       | Math          | py             | ✓      | Nvidia   |
