@@ -19,7 +19,4 @@ class Solution:
         for i in range(len(nums)-1, -1, -1):
             output[i] *= r
             r *= nums[i]
-            arr_b.append(arr_b[-1]*nums[i])
-        for i in range(len(arr_b)):
-            output.append(arr_f[i]*arr_b[len(arr_b)-1-i])
         return output
