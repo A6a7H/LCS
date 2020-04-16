@@ -11,23 +11,31 @@ class ListNode:
 
 class Solution:
     def reorderList(self, head: ListNode) -> None:
-        fast = slow = head
+        """
+        Do not return anything, modify head in-place instead.
+        """
+        if not head:
+            return 
+        
+        slow = fast = head
         while fast and fast.next:
-            fast = fast.next.next
             slow = slow.next
-        node = None
+            fast = fast.next.next 
+        
+        prev, curr = None, slow
         while slow:
             nxt = slow.next
-            slow.next = node
-            node = slow
+            slow.next = prev
+            prev = slow
             slow = nxt
-        res  = ListNode(0) 
-        res1 = res
-        while node and head:
-            res1.next = ListNode(head.val)
-            res1.next.next = ListNode(node.val)
-            res1 = res1.next.next
-            node = node.next
-            head = head.next
-        del(head)
-        head = res.next
+        first, second = head, prev
+        
+        while second.next:
+            buff = first.next
+            first.next = second
+            first = buff
+            
+            buff = second.next
+            second.next = first
+            second = buff
+        return head
