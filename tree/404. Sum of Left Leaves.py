@@ -32,3 +32,17 @@ class Solution:
             if not root.left.left and not root.left.right:
                 return root.left.val + self.sumOfLeftLeaves(root.right)
         return self.sumOfLeftLeaves(root.left)+self.sumOfLeftLeaves(root.right)
+
+    ans = 0
+    def sumOfLeftLeaves_3(self, root: TreeNode) -> int:
+        def dfs(node):
+            if not node:
+                return
+            if not node.left and not node.right:
+                return node.val
+            left = dfs(node.left)
+            right = dfs(node.right)
+            if left:
+                self.ans += left
+        dfs(root)
+        return self.ans
