@@ -5,6 +5,7 @@
 |     | Diffk                                              | 2 Pointer     | py             | ✓      | Facebook |
 | 11  | Container With Most Water                          | 2 Pointer     | py             | ✓      | Facebook |
 | 17  | Letter Combinations of a Phone Number              | Backtracking  | py             | ✓      |          |
+| 22  | Generate Parentheses                               | Backtracking  | py             | ✓      |  Google  |
 | 39  | Combination Sum                                    | Backtracking  | py             | ✓      |          |
 | 40  | Combination Sum II                                 | Backtracking  | py             | ✓      |          |
 | 77  | Combinations                                       | Backtracking  | py             | ✓      |          |
@@ -39,9 +40,14 @@
 | 234 | Palindrome Linked List                             | Linked List   | py             | ✓      |          |
 | 771 | Jewels and Stones                                  | Array         | py             | ✓      |          |
 | 283 | Move Zeroes                                        | Array         | py             | ✓      |          |
+| 15  | 3Sum                                               | Array         | py             | ✓      |          |
+|     | 3Sum in 3array                                     | Array         | py             | ✓      | Yandex   |
+| 253 | Meeting Rooms II                                   | Array         | py             | ✓      | Yandex   |
 | 31  | Next Permutation                                   | Array         | py             | ✓      |          |
 |     | Find subarray with given sum                       | Array         | py             | ✓      | Yandex   |
+| 161 | One Edit Distance                                  | Array/String  | py             | ✓      | Yandex   |
 | 54  | Spiral Matrix                                      | Array         | py             | ✓      |          |
+| 48  | Rotate image                                       | Array         | py             | ✓      |          |
 | 238 | Product of Array Except Self                       | Array         | py             | ✓      |          |
 | 29  | Divide Two Integers                                | Binary Search | py             | ✓      |          |
 | 704 | Binary Search                                      | Binary Search | py             | ✓      |          |
@@ -64,6 +70,8 @@
 | 459 | Repeated Substring Pattern                         | String        | py             | ✓      |          |
 |     | Create word by first char of sentense.py           | String        | py             | ✓      |   Amazon |
 | 20  | Valid Parentheses                                  | Stack         | py             |  ✓     |          |
+| 739 | Daily Temperatures                                 | Stack         | py             |  ✓     | Yandex   |
+| 238 | Product of Array Except Self                       | Stack         | py             |  ✓     | Yandex   |
 | 200 | Number of Islands                                  | Graph         | py             |  ✓     | Tinkoff  |
 | 1267| Count Servers that Communicate                     | Graph         | py             |  ✓     |          |
 | 695 | Max Area of Island                                 | Graph         | py / cpp       |  ✓     |          |
