@@ -20,5 +20,20 @@ class Solution:
                 return True
             return left < root.val < right and isValid(root.left, left, root.val) and isValid(root.right, root.val, right)
         return isValid(root,-float("inf"), float("inf"))
+
+class Solution:
+def isValidBST_bigger(self, root: TreeNode) -> bool:
+    def helper(root, left, right):
+        if not root:
+            return True
+        if root.val <= left or root.val >= right:
+            return False
+        if not helper(root.right, root.val, right):
+            return False
+        if not helper(root.left, left, root.val):
+            return False
+        return True
+
+    return helper(root, float('-inf'), float('inf'))
             
         
