@@ -16,7 +16,7 @@ class Solution:
 
 		def Maxdeth(root):
 			if not root:
-				return 0;
+				return 0
 			return max(Maxdeth(root.left), Maxdeth(root.right)) + 1
 		if not root:
 			return True
